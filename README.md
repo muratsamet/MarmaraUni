@@ -20,6 +20,6 @@ TabControlün birinci sekmesine 2 adet Textbox, 4 adet RadioButton, 1 adet chech
 2. Formun altına aşağıdaki kodlar yazılmalıdır.
 
 Hazırlayanlar : 
-Murat Samet KÜÇÜK
-Oğuzhan KASAP
+Murat Samet KÜÇÜK,
+Oğuzhan KASAP,
 Muhammet YILDIZ
